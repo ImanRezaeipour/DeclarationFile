@@ -1,0 +1,35 @@
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\csc.exe
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\csc.exe.config
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\csc.rsp
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\csi.exe
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\csi.rsp
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\System.AppContext.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\System.Collections.Immutable.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\System.IO.FileSystem.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\System.Reflection.Metadata.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\vbc.exe
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\vbc.exe.config
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\vbc.rsp
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\VBCSCompiler.exe
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\roslyn\VBCSCompiler.exe.config
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\Declaration File.dll.config
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\Declaration File.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\Declaration File.pdb
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\obj\Debug\Declaration File.csprojResolveAssemblyReference.cache
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\obj\Debug\Declaration File.csproj.CoreCompileInputs.cache
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\obj\Debug\Declaration File.dll
+G:\Dropbox\SPA_TEMP\5-Declaration File\Declaration File\Declaration File\obj\Debug\Declaration File.pdb

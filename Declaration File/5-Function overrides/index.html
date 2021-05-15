@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>TypeScript HTML App</title>
+
+	<link href="app.css" rel="stylesheet" />
+	<script src="app.js"></script>
+
+	<script type="text/javascript">
+		function customAlert(message) {
+			if (typeof message === 'object') {
+				alert(message.message);
+			} else {
+				alert(message);
+			}
+		}
+	</script>
+</head>
+<body>
+	<h1>TypeScript HTML App</h1>
+
+	<div id="content"></div>
+</body>
+</html>

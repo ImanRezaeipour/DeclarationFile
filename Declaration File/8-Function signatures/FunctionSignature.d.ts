@@ -1,0 +1,1 @@
+﻿declare function myFunction(message: string, callback: (message: string) => void);
